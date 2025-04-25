@@ -1,0 +1,13 @@
+*.pyc
+__pycache
+.DS_Store
+
+.vscode
+.idea
+
+*.sqlite3
+
+*.env
+*.env.prod
+*.env.dev
+
